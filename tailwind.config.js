@@ -7,7 +7,8 @@ module.exports = {
   ],
   theme: {
     colors: {
-      'red-500': '#F15156'
+      'red-500': '#F15156',
+      'yellow-500': '#F4D35E',
     }
   },
   plugins: [],
