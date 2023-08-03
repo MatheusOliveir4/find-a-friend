@@ -12,7 +12,7 @@ export default function Home() {
         <title>Home</title>
       </Head>
 
-      <main className="h-screen bg-red-500">
+      <main className="h-screen bg-red-500 text-white">
         <div className="container mx-auto px-4 h-full flex justify-center flex-col gap-28">
           <Image src={logo} alt="Logo com um rosto de um cachorro com o nome FindAFriend ao lado esquerdo"/>
 

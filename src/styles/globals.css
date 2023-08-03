@@ -4,5 +4,8 @@
 
 body {
   font-family: 'Nunito Sans', sans-serif;
-  color: white;
+}
+
+:focus {
+  border: 1px solid #0D3B66;
 }
