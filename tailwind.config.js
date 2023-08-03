@@ -6,9 +6,12 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    colors: {
-      'red-500': '#F15156',
-      'yellow-500': '#F4D35E',
+    extend: {
+      colors: {
+        'red-500': '#F15156',
+        'red-700': '#E44449',
+        'yellow-500': '#F4D35E',
+      }
     }
   },
   plugins: [],
