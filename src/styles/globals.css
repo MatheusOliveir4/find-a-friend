@@ -6,6 +6,6 @@ body {
   font-family: 'Nunito Sans', sans-serif;
 }
 
-:focus {
+*:focus {
   border: 1px solid #0D3B66;
 }
