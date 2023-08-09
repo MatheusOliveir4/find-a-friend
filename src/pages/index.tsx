@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home</title>
+        <title>Find a Friend | Home</title>
       </Head>
 
       <main className="h-screen bg-red-500 text-white">
