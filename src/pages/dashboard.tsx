@@ -85,7 +85,7 @@ export default function Dashboard() {
             </select>
           </nav>
 
-          <section className="grid md:grid-cols-2 xl:grid-cols-3 gap-8 my-14">
+          <section className="grid md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-8 my-14">
             <AnimalCard
               name="Aquiles"
               imgUrl={logoMinImg}
